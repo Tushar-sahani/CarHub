@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2 align="center">
+  Car Hub<br>
+<!--   <a href="https://tusharsahani.netlify.app/" target="_blank">tusharsahani.netlify.app</a> -->
+</h2>
 
-## Getting Started
+<div align="center">
+<!-- <img src="https://github.com/Tushar-sahani/Portfolio/assets/104075614/be1ea6e0-47ea-41a9-839a-a8c35cc87174" alt="Portfolio" width="100%" /> -->
+</div>
+<br/>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stacks
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project was built using these technologies.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [NextJs 14](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Setup Locally
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-## Deploy on Vercel
+## Installation and Setup Instructions
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository:
+   ```terminal
+   git clone https://github.com/Tushar-sahani/CarHub.git
+   ````
+   
+2. Installation:
+   ```terminal
+   npm install
+   ````
+   
+3. In the project directory, you can run:
+   ```terminal
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+### Show your support
+
+Give a ⭐ if you like this website!
